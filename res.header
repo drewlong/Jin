@@ -1,4 +1,0 @@
-2016-07-08 22:10:18 +0000
-{"proxy-connection"=>"close", "connection"=>"close", "accept-ranges"=>"bytes", "cache-control"=>"max-age=604800", "content-type"=>"text/html", "date"=>"Fri, 08 Jul 2016 22:10:18 GMT", "etag"=>"\"359670651+gzip\"", "expires"=>"Fri, 15 Jul 2016 22:10:18 GMT", "last-modified"=>"Fri, 09 Aug 2013 23:54:35 GMT", "server"=>"ECS (mdw/1275)", "vary"=>"Accept-Encoding", "x-cache"=>"HIT", "x-ec-custom-error"=>"1", "content-length"=>"606", "via"=>"1.1 calong87-proxy-tools-3483635:8000"}
-2016-07-08 22:10:56 +0000
-{"proxy-connection"=>"close", "connection"=>"close", "location"=>"http://www.google.com/", "content-type"=>"text/html; charset=UTF-8", "date"=>"Fri, 08 Jul 2016 22:10:56 GMT", "expires"=>"Sun, 07 Aug 2016 22:10:56 GMT", "cache-control"=>"public, max-age=2592000", "server"=>"gws", "content-length"=>"219", "x-xss-protection"=>"1; mode=block", "x-frame-options"=>"SAMEORIGIN", "via"=>"1.1 calong87-proxy-tools-3483635:8000"}
