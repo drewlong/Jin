@@ -1,4 +1,0 @@
-2016-07-08 22:10:18 +0000
-{"user-agent"=>["curl/7.35.0"], "host"=>["example.com"], "accept"=>["*/*"], "proxy-connection"=>["Keep-Alive"]}
-2016-07-08 22:10:56 +0000
-{"user-agent"=>["curl/7.35.0"], "host"=>["google.com"], "accept"=>["*/*"], "proxy-connection"=>["Keep-Alive"]}
